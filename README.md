@@ -1,5 +1,5 @@
+# Pajacyk bot
 <p align="center">
-    # Pajacyk bot
     <img src="https://i.imgur.com/DwVIgrh.gif"><br>
     Bot do nabijania kliknięć na stronie https://www.pajacyk.pl/<br>
     <img src="https://i.imgur.com/DwVIgrh.gif"><br><br>

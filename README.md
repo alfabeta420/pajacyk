@@ -1,0 +1,2 @@
+# pajacyk
+Pajacyk clicks bot

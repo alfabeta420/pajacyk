@@ -9,3 +9,4 @@ while b < a:
     print(f"Wysłano kliknięcie nr {b}")
     b = b + 1
 print("Zakonczono klikanie w przycisk :) milego dnia")
+input()
